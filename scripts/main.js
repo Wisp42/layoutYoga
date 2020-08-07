@@ -5,6 +5,7 @@ $(document).ready(function(){
         centerMode: true,
         slidesToShow: 1,
         variableWidth: true,
+        autoplay: true,
     });
     $('.program-slider').slick({
         arrows: false,
@@ -12,6 +13,7 @@ $(document).ready(function(){
         centerMode: true,
         slidesToShow: 1,
         variableWidth: true,
+        autoplay: true,
     });
     $('.students-slider').slick({
         autoplay: false,
